@@ -1,2 +1,2 @@
 # androidappspihole
-Block tracking/analytics URIs of Android Apps - Test Rep
+Block rare tracking/analytics URIs of Android Apps - Test Rep
