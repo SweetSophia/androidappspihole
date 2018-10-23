@@ -1,6 +1,7 @@
 https://service.miyuki.mobi
 https://console.miyuki.mobi
 https://sdk.hockeyapp.net
+https://w.usabilla.com
 https://app-measurement.com
 http://my.mobfox.com
 https://alogs.starbolt.io
