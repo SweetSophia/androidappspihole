@@ -1,6 +1,11 @@
 https://service.miyuki.mobi
 https://console.miyuki.mobi
 https://sdk.hockeyapp.net
+https://www.360dialog.com
+https://rt.360dialog.io
+https://collect.tealiumiq.com/
+https://datacloud.tealiumiq.com/
+https://my.tealiumiq.com/
 https://w.usabilla.com
 https://app-measurement.com
 http://my.mobfox.com
