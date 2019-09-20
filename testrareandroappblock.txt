@@ -13,12 +13,8 @@ app-measurement.com
 my.mobfox.com
 alogs.starbolt.io
 alkutbay.starbolt.io
-alkutbay.starbolt.io
-sdk.starbolt.io
 sdk.starbolt.io
 static.starbolt.io
-static.starbolt.io
-dm.starbolt.io
 dm.starbolt.io
 z.moatads.com
 tracker.mtrtb.com
@@ -47,6 +43,3 @@ redshell.io
 api.redshell.io
 treasuredata.com
 api.treasuredata.com
-
-
-
