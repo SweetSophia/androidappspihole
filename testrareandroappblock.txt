@@ -1,6 +1,7 @@
 # github.com/SweetSophia/androidappspihole
 trackers.voodoo-analytics.io
 shs-session-tracker.appspot.com
+ad7.adfarm1.adition.com
 service.miyuki.mobi
 console.miyuki.mobi
 sdk.hockeyapp.net
