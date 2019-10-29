@@ -1,5 +1,6 @@
 # github.com/SweetSophia/androidappspihole
 api.vungle.akadns.net
+farm-ch.plista.com
 cds.b5v5n7e3.hwcdn.net
 cdn-creatives-highwinds-prd.unityads.unity3d.com
 sdk-diagnostics.prd.mz.internal.unity3d.com
