@@ -1,4 +1,11 @@
 # github.com/SweetSophia/androidappspihole
+api.vungle.akadns.net
+cds.b5v5n7e3.hwcdn.net
+cdn-creatives-highwinds-prd.unityads.unity3d.com
+sdk-diagnostics.prd.mz.internal.unity3d.com
+e10499.dsce9.akamaiedge.net
+api-apps-lb.itunes-apple.com.akadns.net
+star.c10r.facebook.com
 trackers.voodoo-analytics.io
 shs-session-tracker.appspot.com
 ad7.adfarm1.adition.com
