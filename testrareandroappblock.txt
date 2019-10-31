@@ -56,3 +56,5 @@ api.redshell.io
 treasuredata.com
 api.treasuredata.com
 pinpoint.us-east-1.amazonaws.com
+ads.playamedia.com
+strawberry.playamedia.com
